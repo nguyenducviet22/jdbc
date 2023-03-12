@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\NGUYEN DUC VIET\eclipse-workspace2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4174809302.index
+2500851937.index
+2292020260.index
+562619050.index
+1959191877.index
+643020472.index
+1216288454.index

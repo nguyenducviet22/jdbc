@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\NGUYEN DUC VIET\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1326442128.index
+\Servlet\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1720715926.index
+\bt8\src\main\java
